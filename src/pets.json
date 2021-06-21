@@ -1,0 +1,115 @@
+[
+  {
+    "id": 0,
+    "name": "A Mindful Garden",
+    "picture": "images/_0.jpeg",
+    "artist": "Duy Huynh",
+    "price": 1.5
+  },
+  {
+    "id": 1,
+    "name": "Moonlight Dance",
+    "picture": "images/_1.jpeg",
+    "artist": "Nancy Tillman",
+    "price": 1.5
+  },
+  {
+    "id": 2,
+    "name": "Tuscany Floral",
+    "picture": "images/_2.jpeg",
+    "artist": "Allayn Stevens",
+    "price": 2
+  },
+  {
+    "id": 3,
+    "name": "A Pathway in Monet's Garden",
+    "picture": "images/_3.jpeg",
+    "artist": "Claude Monet",
+    "price": 2.5
+  },
+  {
+    "id": 4,
+    "name": "Love Is in the Air",
+    "picture": "images/_4.jpeg",
+    "artist": "Banksy",
+    "price": 2.5
+  },
+  {
+    "id": 5,
+    "name": "Falling Leaves, Paris",
+    "picture": "images/_5.jpeg",
+    "artist": "Peter Graham",
+    "price": 2
+  },
+  {
+    "id": 6,
+    "name": "Monarch of the Glen",
+    "picture": "images/_6.jpeg",
+    "artist": "Edwin Henry Landseer",
+    "price": 1.5
+  },
+  {
+    "id": 7,
+    "name": "Number 18, 1950",
+    "picture": "images/_7.jpeg",
+    "artist": "Jackson Pollock",
+    "price": 110
+  },
+  {
+    "id": 8,
+    "name": "The Kiss, 1907-08",
+    "picture": "images/_8.jpeg",
+    "artist": "Gustav Klimt",
+    "price": 2.5
+  },
+  {
+    "id": 9,
+    "name": "Joan of Arc, 1879",
+    "picture": "images/_9.jpeg",
+    "artist": "Jules Bastien-Lepage",
+    "price": 2.5
+  },
+  {
+    "id": 10,
+    "name": "Sunset, c.1972",
+    "picture": "images/_10.jpeg",
+    "artist": "Andy Warhol",
+    "price": 10
+  },
+  {
+    "id": 11,
+    "name": "Pharaoh's Horses, 1848",
+    "picture": "images/_11.jpeg",
+    "artist": "John Frederick Herring I",
+    "price": 3
+  },
+  {
+    "id": 12,
+    "name": "Vase With Roses and Anemones, 1890",
+    "picture": "images/_12.jpeg",
+    "artist": "Vincent van Gogh",
+    "price": 5
+  },
+  
+  {
+    "id": 13,
+    "name": "'Mermaid' or 'Lobsterman', August 20,1955",
+    "picture": "images/_13.jpeg",
+    "artist": "Norman Rockwell",
+    "price": 3.5
+  },
+  {
+    "id": 14,
+    "name": "Morning on the Seine Near Giverny",
+    "picture": "images/_14.jpeg",
+    "artist": "Claude Monet",
+    "price": 2.5
+  },
+  {
+    "id": 15,
+    "name": "Salem, 1908 Baptist Chapel in Pentre Gwynfryn",
+    "picture": "images/_15.jpeg",
+    "artist": "Sydney Curnow Vosper",
+    "price": 7
+  }
+]
